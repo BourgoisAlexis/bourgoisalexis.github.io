@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Folio",
   "resources": {
-    "hash": "sha256-QnWS+s5R+deO1wchm70FONB3iYzxTdlF2Faud0QfPR8=",
+    "hash": "sha256-sAoqO4dMLiNU4wtOq0bWrAKs5tb/R3QIJ7n6jW2JxxU=",
     "runtime": {
       "dotnet.7.0.18.z4jiy7r79o.js": "sha256-lsqy0PQ8nf1/0sSlLGe3Kfwi8V0Q1QzVy5+AqtJ3cfU=",
       "dotnet.timezones.blat": "sha256-aPcvvHoFVwCzeRxTOvMTcrI2l2HKJO0sjSN7IF10LUQ=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Folio.dll": "sha256-O4pwUh1nSBNEhTa3weX0jnuP+3f6ijaAuHodfRSPPBw=",
+      "Folio.dll": "sha256-ZIMvV7zaa1OZIjhoXvqA8EmTRaWPFdoalID1plhs8sA=",
       "Microsoft.AspNetCore.Components.dll": "sha256-cMBcD2uTe9dC24wcl4MBPheD5fl+ZfxV+zPrVrl27wg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-qJRTRuK65ArwO9J9pcYB99g1u67wrq06hmzwPeuodWE=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-hGzdMxiOwvtvNnQ2IQ2VPBLqX+4tAtdBFknBAp3+AnA=",
